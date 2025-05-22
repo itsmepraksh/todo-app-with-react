@@ -1,12 +1,33 @@
-# React + Vite
+# 📝 React To-Do Lite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A minimal and clean to-do list app built with **React**, **Tailwind CSS**, and **FontAwesome**. Add tasks, mark them complete, and delete them with a responsive interface.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
 
-## Expanding the ESLint configuration
+- ✅ Add new tasks
+- ☑️ Mark tasks as complete
+- 🗑️ Delete tasks
+- ✨ Styled with Tailwind CSS
+- 🧠 Form validation with React Hook Form
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## ⚙️ Tech Stack
+
+- [React](https://reactjs.org/)
+- [Tailwind CSS](https://tailwindcss.com/)
+- [FontAwesome](https://fontawesome.com/)
+- [React Hook Form](https://react-hook-form.com/)
+- [NanoID](https://github.com/ai/nanoid)
+
+---
+
+## 📦 Installation
+
+```bash
+git clone https://github.com/itsmepraksh/todo-app-with-react
+cd react-todo-lite
+npm install
+npm start
