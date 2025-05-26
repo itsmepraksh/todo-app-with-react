@@ -57,7 +57,7 @@ const Read = ( ) => {
 
   return (
     <>
-      <div className="list overflow-y-auto py-2 hide-scrollbar w-full h-[100px] my-2 mb-4">
+      <div className="list overflow-y-auto py-2 hide-scrollbar mt-auto w-full h-[100px] my-2 mb-4">
         {todos.length === 0 ? (
           <small className="text-gray-400 ">no task yet...</small>
         ) : (
